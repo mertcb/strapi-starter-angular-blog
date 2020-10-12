@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiURL: '',
+  apiURL: 'https://frozen-journey-02461.herokuapp.com/',
 };

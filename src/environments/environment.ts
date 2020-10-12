@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiURL: 'http:localhost:1337',
+  apiURL: 'https://frozen-journey-02461.herokuapp.com/',
 };
 
 /*
