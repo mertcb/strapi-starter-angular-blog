@@ -21,7 +21,8 @@
             "aot": false,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "./_redirects"
             ],
             "styles": [
               "src/styles.css"
@@ -29,7 +30,7 @@
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
               "node_modules/uikit/dist/js/uikit.min.js",
-              "node_modules/uikit/dist/js/uikit-icons.min.js",
+              "node_modules/uikit/dist/js/uikit-icons.min.js"
             ]
           },
           "configurations": {
